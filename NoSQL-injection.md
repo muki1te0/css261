@@ -1,0 +1,1 @@
+I have installed burp and firefox, as in google it came to me that you can not set your own proxy. Then I have set listener proxy into firefox so I could get data into burp, where I also had access to change and post the requests to server. This way by following instructions from tryhackme room I could pass the challenges. 

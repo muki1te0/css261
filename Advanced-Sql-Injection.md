@@ -1,0 +1,1 @@
+I have just followed what was shown before and did what I was asked, so no problems on that room. All I did was connect to the machine IP using attackbox and read the task carefully, as most solutions were already given and I just used given solutions to obtain answers to provided questions. 
