@@ -1,0 +1,1 @@
+Loggin was easy, just try anything on username and try password: picoCTF{L00k5_l1k3_y0u_solv3d_it_9b0a4e21}; After we logged in, check the html source code: There is a hidden element with the flag. <p hidden="">Your flag is: picoCTF{L00k5_l1k3_y0u_solv3d_it_9b0a4e21}</p>
